@@ -2,6 +2,10 @@
 
 A web-based to-do list application that allows users to add tasks using voice commands. This application leverages the Web Speech API to convert spoken words into text and automatically adds them to a dynamic task list.
 
+
+https://github.com/user-attachments/assets/f9196a9f-ec68-4431-b2c1-27a73dad7bf5
+
+
 ## Features
 
 - **Voice Recognition**: Add tasks by speaking into your microphone
